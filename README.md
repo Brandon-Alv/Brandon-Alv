@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars3.githubusercontent.com/u/USERID?s=460&v=4" width="200px" alt="Brandon Alvarado" />
+  <img src="https://avatars.githubusercontent.com/u/60725388?v=4" width="200px" alt="Brandon Alvarado" />
   <br />
   <h1>Brandon Alvarado</h1>
   <br />
