@@ -23,13 +23,13 @@ Soy un desarrollador con experiencia en tecnologías como **JavaScript**, **HMTL*
 
 ## Educación
 
-- **Colegio Universitario de Cartago** (2018 - 2020)
+  **Colegio Universitario de Cartago** (2018 - 2020)
   - Título: Diplomatura, Programación informática
 
-  - **Universidad Americana (CR)** (2021 - Actualidad)
+  **Universidad Americana (CR)** (2021 - Actualidad)
   - Título: Bachillerato, Ingeniería de sistemas
 
-  - **Cumplimiento de cursos online**
+  **Cumplimiento de cursos online**
   - Plataformas: Udemy, Platzi
 
 ## Habilidades
