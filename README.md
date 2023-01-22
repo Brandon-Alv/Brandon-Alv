@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador con experiencia en tecnologías como **JavaScript**, **HMTL** y **C#**. Me encanta trabajar en proyectos que involucren la resolución de problemas de manera automatizada. También tengo experiencia en desarrollo web y móvil.
+Soy un desarrollador con experiencia en tecnologías .NET Framework. Me encanta trabajar en proyectos que involucren la resolución de problemas de manera automatizada. También tengo experiencia en desarrollo web y móvil.
 
 ## Experiencia laboral
 
@@ -36,6 +36,5 @@ Soy un desarrollador con experiencia en tecnologías como **JavaScript**, **HMTL*
 
 - **Lenguajes de programación:** C#, SQL, JavaScript.
 - **Tecnologías web:** ASP.NET, MVC, HTML, CSS, Blazor
-- **Tecnologías de aprendizaje automático:** TensorFlow, Keras, Scikit-learn
 - **Base de datos:** SQL Server, MySQL
 - **Sistemas operativos:** Windows
