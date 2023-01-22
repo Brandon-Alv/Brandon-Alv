@@ -5,7 +5,7 @@
   <br />
   <p>Desarrollador | .NET Framework | SQL Server</p>
   <br />
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <a href="https://github.com/Brandon-Alv"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://www.linkedin.com/in/brandon-alvarado-su&aacute;rez-2a2a661a9/?original_referer="><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <br />
 </div>
