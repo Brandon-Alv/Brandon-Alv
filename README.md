@@ -14,24 +14,6 @@
 
 Soy un desarrollador con experiencia en tecnologías .NET Framework. Me encanta trabajar en proyectos que involucren la resolución de problemas de manera automatizada. También tengo experiencia en desarrollo web y móvil.
 
-## Experiencia laboral
-
-### Analista desarrollador
-**Gestión en Tecnología e Información GTI** (2020 - Actualidad)
-- Desarrollo de aplicaciones que permiten la conectividad entre distintas entidades.
-- Implementación de mejoras para la optimización de recursos y un mejor funcionamiento de los sistemas.
-
-## Educación
-
-  **Colegio Universitario de Cartago** (2018 - 2020)
-  - Título: Diplomatura, Programación informática
-
-  **Universidad Americana (CR)** (2021 - Actualidad)
-  - Título: Bachillerato, Ingeniería de sistemas
-
-  **Cumplimiento de cursos online**
-  - Plataformas: Udemy, Platzi
-
 ## Habilidades
 
 - **Lenguajes de programación:** C#, SQL, JavaScript.
