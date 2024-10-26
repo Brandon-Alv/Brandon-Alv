@@ -10,13 +10,13 @@
   <br />
 </div>
 
-## Sobre mí
+## Sobre mÃ­
 
-Soy un desarrollador con experiencia en tecnologías .NET Framework. Me encanta trabajar en proyectos que involucren la resolución de problemas de manera automatizada. También tengo experiencia en desarrollo web y móvil.
+Soy un desarrollador con experiencia en tecnologÃ­as .NET Framework. Me encanta trabajar en proyectos que involucren la resoluciÃ³n de problemas de manera automatizada. TambiÃ©n tengo experiencia en desarrollo web y mÃ³vil.
 
 ## Habilidades
 
-- **Lenguajes de programación:** C#, SQL, JavaScript.
-- **Tecnologías web:** ASP.NET, MVC, HTML, CSS, Blazor
+- **Lenguajes de programaciÃ³n:** C#, SQL, JavaScript, React, Python.
+- **TecnologÃ­as web:** ASP.NET, MVC, HTML, CSS, Blazor, React, .Net Core
 - **Base de datos:** SQL Server, MySQL
 - **Sistemas operativos:** Windows
