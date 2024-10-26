@@ -3,7 +3,7 @@
   <br />
   <h1>Brandon Alvarado</h1>
   <br />
-  <p>Developer | .NET Framework | SQL Server</p>
+  <p>Developer | .NET | React | SQL Server</p>
   <br />
   <a href="https://github.com/Brandon-Alv"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://www.linkedin.com/in/brandon-alvarado-suárez-2a2a661a9/?original_referer="><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
